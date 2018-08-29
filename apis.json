@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Authentiq Connect",
+	"description": "This is a repository of authentiq connect APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/authentiq-connect.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://authentiq-connect.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Authentiq Connect",
+			"x-api-slug": "authentiq-connect",
+			"description": "Authentiq offers the convenience of passwordless authentication with the safety of two step verification. Sign up for Authentiq today, and never think about authentication again.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/authentiq-logo.png",
+			"humanURL": "http://authentiq.com",
+			"baseURL": "https://connect.authentiq.io//",
+			"tags": "Authentiq Connect",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/authentiq-connect/master/_listings/authentiq-connect/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Authentiq Connect",
+	"include": [
+		{
+			"name": "Authentiq Connect",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/authentiq-connect/master/_listings/authentiq-connect/apis.yaml"
+		}
+	]
+}

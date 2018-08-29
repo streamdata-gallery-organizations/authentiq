@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Authentiq Connect
 x-complete: 1
@@ -249,4 +248,3 @@ paths:
       - Client
       - Id
       - Iframe
----
